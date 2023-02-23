@@ -25,7 +25,7 @@ function Skills() {
       <div className='text-4xl mt-28 font-bold text-center underline decoration-slate-600'>
         Skills
       </div>
-      <div className='grid grid-cols-5 gap-5 mt-10'>
+      <div className='grid grid-cols-2 md:grid-cols-5 gap-5 mt-10'>
         <div className='p-5 bg-slate-800 border border-slate-600 rounded-lg shadow-md flex justify-center hover:scale-105 cursor-pointer'>
           <FaPython size={150} fill='#00A5E9'></FaPython>
         </div>
